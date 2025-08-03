@@ -39,7 +39,3 @@ The Travel AI Agent is designed to simplify travel planning by generating intell
 - Reactive updates for delays or cancellations
 - Agentic AI behavior: proactively adjusts plans
 
----
-
-## 📂 Folder Structure
-
